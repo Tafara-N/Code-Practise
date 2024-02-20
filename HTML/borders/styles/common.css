@@ -1,0 +1,8 @@
+h1 {
+    border: 2px solid rgb(9, 240, 128);
+    border-radius: 24px;
+}
+
+p {
+    border-bottom: 2px solid rgb(9, 240, 128);
+}
