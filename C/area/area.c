@@ -4,6 +4,10 @@
  * main - Program calculates the area and perimeter of a rectangle with
  *          a width of 3 inches and height of 5 inches
  *
+ * Description: To work with a rectangle with a width of 6.8 inches and a
+ *              length of 2.3 inches simply typecast in to float or declare
+ *              the values as float data types.
+ *
  * Return: On success - (0)
 */
 
