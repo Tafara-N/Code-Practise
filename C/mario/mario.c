@@ -11,7 +11,7 @@ int main(void)
 {
     int i, j, num;
 
-    do  /* Prompts user for a positive number */
+    do  /* Prompts user for a positive number (grid size) */
     {
         num = get_int("Size of square: ");
     }
