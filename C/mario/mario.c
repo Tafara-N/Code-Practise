@@ -9,17 +9,17 @@
 
 int main(void)
 {
-    int i, j, n;
+    int i, j, num;
 
-    do
+    do  /* Prompts user for a positive number */
     {
-        n = get_int("Size of square: ");
+        num = get_int("Size of square: ");
     }
-    while ( n < 1);
+    while ( num < 1);
 
-    for (i = 0; i < n; i++)
+    for (i = 0; i < num; i++)  /* Prints the row */
     {
-        for (j = 0; j < n; j++)
+        for (j = 0; j < num; j++)
         {
             printf("#");
         }
