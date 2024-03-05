@@ -2,12 +2,12 @@
 
 int get_size()
 {
-    int number;
+	int number;
 
-    do
-    {
-        number = get_int("Size of square: ");
+	do
+	{
+		number = get_int("Size of square: ");
 
-    } while (number < 1);
-    return number;
+	} while (number < 1);
+	return number;
 }
