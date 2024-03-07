@@ -23,7 +23,7 @@ int main(void)
 		digits++;
 	} while (num > 0);
 
-	printf("The number %d has %d digits.\n", a, digits);
+	printf("The number %d has %d digit(s).\n", a, digits);
 
 	return (0);
 }
