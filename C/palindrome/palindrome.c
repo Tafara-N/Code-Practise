@@ -19,11 +19,11 @@ int main(void)
 	number = get_int("Number: ");
 	temp = number;
 
-	while (temp != 0)  /* Number is greater than 0 */
+	while (temp != 0)
 	{
 		remainder = temp % 10;  /* Gets remainder */
 		result = (result * 10) + remainder;  /* Adds the reversed number to the current number */
-		temp = temp / 10;
+		temp /= 10;  /* Gets the number except the last digit */
 	}
 
 	if (result == number)
