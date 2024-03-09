@@ -12,7 +12,7 @@ int main(void)
 	int count = 0, digits, mul = 1, number, remainder, result = 0, temp;
 
 	number = get_int("Number: ");
-	temp = number;  /* Stores the number from user */
+	temp = number;
 
 	while (temp != 0)
 	{
