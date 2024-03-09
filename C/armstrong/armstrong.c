@@ -5,7 +5,7 @@
  * main - Checks if a number is an armstrong number.
  *
  * Return: On success - (0)
-*/
+ */
 
 int main(void)
 {
