@@ -11,16 +11,38 @@
  * Return: On success - (0)
 */
 
+int rect_area(int width, int length);
+
 int main(void)
 {
-    int width = 3, height = 7;
-    int area, perimeter;
+    int area, width = 3, height = 7, perimeter;
 
-    area = width * height;
+    area = rect_area(width, height);
     perimeter = (area + height) * 2;
 
     printf("The area of the rectangle is %d inches.\n", area);
     printf("The perimeter of the rectangle is %d inches.\n", perimeter);
 
     return (0);
+}
+
+#include <cs50.h>
+#include <stdio.h>
+
+/**
+ * rect_area - Function to calculate the area of a rectangle
+ *
+ *@length: Length of rectangle
+ *@width: Width of rectangle
+ *
+ * Return: Area of rectangle
+ */
+
+int rect_area(int length, int width)
+{
+    int area;
+
+    area = length * width;
+
+    return (area);
 }
