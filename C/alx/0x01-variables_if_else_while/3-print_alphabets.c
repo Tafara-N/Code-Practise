@@ -23,7 +23,7 @@ int main(void)
 		putchar(toupper(LETTER));
 	}
 
-	printf("\n");
+	putchar('\n');
 
 	return (0);
 }
