@@ -2,7 +2,7 @@
 
 /**
  * main - Prints the alphabet in lower case using putchar
- * 			and ASCII values.
+ *			and ASCII values.
  *
  * Return: On success - (0)
  */
