@@ -1,6 +1,8 @@
 #include <ctype.h>
 #include <stdio.h>
 
+#define LETTER alphabet[i]
+
 /**
  * main - Prints the alphabet in lower case then in UPPERCASE using putchar
  *
@@ -14,11 +16,11 @@ int main(void)
 
 	for (i = 0; i < 26; i++)
 	{
-		putchar(alphabet[i]);
+		putchar(LETTER);
 	}
 	for (i = 0; i < 26; i++)
 	{
-		putchar(toupper(alphabet[i]));
+		putchar(toupper(LETTER));
 	}
 
 	printf("\n");
