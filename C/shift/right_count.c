@@ -16,8 +16,7 @@ int right_count(long number, int times)
 	while (number)
 	{
 		count++;
-		number >>= 1;
-		times--;
+		number >>= times;
 	}
 
 	return (count);
