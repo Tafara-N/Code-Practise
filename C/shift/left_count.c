@@ -16,8 +16,7 @@ int left_count(long number, int times)
 	while (times > 0)
 	{
 		count++;
-		number <<= 1;
-		times--;
+		number <<= times;
 	}
 
 	return (count);
