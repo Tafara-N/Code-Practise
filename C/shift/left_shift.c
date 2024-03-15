@@ -12,5 +12,5 @@
 int left_shift(long number, int times)
 {
 	number <<= times;
-	return number;
+	return (number);
 }
