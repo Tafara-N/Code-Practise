@@ -6,7 +6,7 @@
  *
  * Return: On success - (1)
  *			Otherwise - (0)
-*/
+ */
 
 int _isupper(int c)
 {
