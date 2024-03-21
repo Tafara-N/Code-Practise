@@ -1,3 +1,4 @@
+#include <ctype.h>
 #include <stdio.h>
 
 /**
@@ -12,6 +13,8 @@ int main(void)
 
 	printf("Enter your grade: ");
 	scanf("%c", &grade);
+
+	grade = toupper(grade);
 
 	switch (grade)
 	{
