@@ -1,5 +1,11 @@
 #include <stdio.h>
 
+/**
+ * main - Asks' user for date, month and year
+ *
+ * Return: On success - (0)
+ */
+
 int main(void)
 {
 	int dd, mm, yyyy;
