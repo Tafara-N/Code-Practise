@@ -2,7 +2,7 @@
 #include <string.h>
 
 /**
- * hex_to_decimal - Function to convert hexadecimal to octal
+ * hex_to_octal - Function to convert hexadecimal to octal
  * @hex: Hexadecimal to be converted
  *
  * Return: Octal number
