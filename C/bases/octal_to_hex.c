@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * octal_to_hex - Function to convert hexadecimal to decimal
+ * octal_to_hex - Function to convert octal to hexadecimal
  * @octal: Octal number to be converted
  *
  * Return: Void
