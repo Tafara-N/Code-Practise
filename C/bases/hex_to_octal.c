@@ -5,7 +5,7 @@
  * hex_to_octal - Function to convert hexadecimal to octal
  * @hex: Hexadecimal to be converted
  *
- * Return: Octal number
+ * Return: Void
  */
 
 void hex_to_octal(char hex[]) {
