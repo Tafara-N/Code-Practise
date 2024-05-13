@@ -1,0 +1,6 @@
+#!/usr/bin/bash
+
+# Script runs Python code
+# The Python code will be saved in the environment variable $PYCODE
+
+echo "$PYCODE" | python3
