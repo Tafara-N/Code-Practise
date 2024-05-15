@@ -241,7 +241,7 @@ This program will assign a random signed number to the variable `number` each ti
 - The variable `number` will store a different value every time you will run this program
 - You don’t have to understand what `import`, `random.randint do`. **Please do not touch this code**. This line should not change: `number = random.randint(-10000, 10000)`
 - The output of the program should be:
-    - The string Last digit of, followed by
+    - The string `Last digit of`, followed by
     - the number, followed by
     - the string is, followed by the last digit of number, followed by
         - if the last digit is greater than 5: the string and is greater than 5
