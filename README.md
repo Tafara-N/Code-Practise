@@ -1,7 +1,28 @@
-Practising coding in different languages.
+# Practising coding in different languages.
 
-Data Structures and Algorithms
+## Languages
+- C
+- Python
+  - Django
+  - Flask
+- Ruby
+- JavaScript
+- JSON
+- Monty
 
-Databases
+## Data Structures and Algorithms
+- Sorting Algorithms
+- Search Algorithms
+- Binary Trees
 
-Git
+## Databases
+- SQL
+  - MySQL
+  - PostgreSQL
+  - SQLite
+  - SQLAlchemy: Python
+- NoSQL
+  - MongoDB
+  - Redis
+
+## Git
