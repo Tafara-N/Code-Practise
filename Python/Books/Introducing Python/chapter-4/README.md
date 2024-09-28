@@ -10,7 +10,8 @@
 
 - `4.5` Use a dictionary comprehension to create the dictionary `squares`. Use `range(10)` to return the keys, and use the square of each key as its value.
 
-4.6 Use a set comprehension to create the set odd from the odd numbers in range(10).
+- `4.6` Use a set comprehension to create the set `odd` from the odd numbers in `range(10)`.
+
 4.7 Use a generator comprehension to return the string 'Got ' and a number for the
 numbers in range(10). Iterate through this by using a for loop.
 4.8 Define a function called good that returns the list ['Harry', 'Ron', 'Hermione'].
