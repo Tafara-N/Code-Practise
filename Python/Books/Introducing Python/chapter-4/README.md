@@ -12,8 +12,8 @@
 
 - `4.6` Use a set comprehension to create the set `odd` from the odd numbers in `range(10)`.
 
-4.7 Use a generator comprehension to return the string 'Got ' and a number for the
-numbers in range(10). Iterate through this by using a for loop.
+- `4.7` Use a generator comprehension to return the string `'Got '` and a number for the numbers in `range(10)`. Iterate through this by using a for loop.
+
 4.8 Define a function called good that returns the list ['Harry', 'Ron', 'Hermione'].
 4.9 Define a generator function called get_odds that returns the odd numbers from
 range(10). Use a for loop to find and print the third value returned.
