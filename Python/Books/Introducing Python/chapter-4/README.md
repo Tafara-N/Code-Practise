@@ -16,10 +16,9 @@
 
 - `4.8` Define a function called `good` that returns the list `['Harry', 'Ron', 'Hermione']`.
 
-4.9 Define a generator function called get_odds that returns the odd numbers from
-range(10). Use a for loop to find and print the third value returned.
-4.10 Define a decorator called test that prints 'start' when a function is called and
-'end' when it finishes.
+- `4.9` Define a generator function called `get_odds` that returns the odd numbers from `range(10)`. Use a for loop to find and print the third value returned.
+
+- `4.10` Define a decorator called `test` that prints `'start'` when a function is called and `'end'` when it finishes.
 
 - `4.11` Define an exception called `OopsException`. Raise this exception to see what happens. Then write the code to catch this exception and print `'Caught an oops'`.
 
