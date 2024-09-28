@@ -4,6 +4,9 @@
 Lowercase the last element of the `surprise` list, reverse it, and then
 capitalize it
 
+[::-1] - We are just reversing it
+[::-1].capitalize() - right after reversing it, we capitalize it
+
 """
 
 surprise = ["Groucho", "Chico", "Harpo"]
