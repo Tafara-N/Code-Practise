@@ -1,13 +1,9 @@
 # Things to Do
 
-4.1 Assign the value 7 to the variable guess_me. Then, write the conditional tests (if,
-else, and elif) to print the string 'too low' if guess_me is less than 7, 'too high' if
-greater than 7, and 'just right' if equal to 7.
-4.2 Assign the value 7 to the variable guess_me and the value 1 to the variable start.
-Write a while loop that compares start with guess_me. Print too low if start is less
-than guess me. If start equals guess_me, print 'found it!' and exit the loop. If start
-is greater than guess_me, print 'oops' and exit the loop. Increment start at the end of
-the loop.
+- `4.1` Assign the value `7` to the variable `guess_me`. Then, write the conditional tests (if, else, and elif) to print the string `'too low'` if `guess_me` is `less` than 7, `'too high'` if `greater` than `7`, and `'just right'` if `equal` to `7`.
+
+- `4.2` Assign the value `7` to the variable `guess_me` and the value `1` to the variable `start`. Write a while loop that compares `start` with `guess_me`. Print `too low` if `start` is less than `guess_me`. If `start` equals `guess_me`, print `'found it!'` and exit the loop. If `start` is greater than `guess_me`, print `'oops'` and exit the loop. Increment `start` at the end of the loop.
+
 4.3 Use a for loop to print the values of the list [3, 2, 1, 0].
 4.4 Use a list comprehension to make a list of the even numbers in range(10).
 4.5 Use a dictionary comprehension to create the dictionary squares. Use range(10)
