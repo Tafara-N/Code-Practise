@@ -37,3 +37,7 @@ In this chapter, you saw more complex data structures: lists, tuples, dictionari
 - `3.17`. Print the keys for `life['animals']`.
 
 - `3.18`. Print the values for `life['animals']['cats']`.
+
+## Author
+
+**Tafara Nyamhunga  - [Github](https://github.com/tafara-n) / [Twitter](https://twitter.com/tafaranyamhunga)**
