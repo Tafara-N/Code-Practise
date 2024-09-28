@@ -21,3 +21,19 @@ In this chapter, you saw more complex data structures: lists, tuples, dictionari
 - `3.9`. Lowercase the last element of the `surprise` list, reverse it, and then capitalize it.
 
 - `3.10`. Make an English-to-French dictionary called `e2f` and print it. Here are your starter words: `dog` is `chien`, `cat` is `chat`, and `walrus` is `morse`.
+
+3.11. Using your three-word dictionary `e2f`, print the French word for `walrus`.
+
+3.12. Make a French-to-English dictionary called `f2e` from `e2f`. Use the `items` method.
+
+3.13. Using `f2e`, print the English equivalent of the French word `chien`.
+
+3.14. Make and print a set of English words from the keys in `e2f`.
+
+3.15. Make a multilevel dictionary called `life`. Use these strings for the topmost keys: `'animals'`, `'plants'`, and `'other'`. Make the `'animals'` key refer to another dictionary with the keys `'cats', 'octopi', and 'emus'`. Make the `'cats'` key refer to a list of strings with the values `'Henri', 'Grumpy', and 'Lucy'`. Make all the other keys refer to empty dictionaries.
+
+3.16. Print the top-level keys of life.
+
+3.17. Print the keys for `life['animals']`.
+
+3.18. Print the values for `life['animals']['cats']`.
