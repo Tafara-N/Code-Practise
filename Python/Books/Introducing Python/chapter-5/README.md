@@ -8,8 +8,8 @@
 
 - `5.4`. Import the `hours()` function as info and call it.
 
-5.5. Make a dictionary called plain with the key-value pairs 'a': 1, 'b': 2, and 'c':
-3, and then print it.
+- `5.5`. Make a dictionary called `plain` with the key-value pairs `'a': 1`, `'b': 2`, and `'c': 3`, and then print it.
+
 5.6. Make an OrderedDict called fancy from the same pairs listed in 5.5 and print it.
 Did it print in the same order as plain?
 
