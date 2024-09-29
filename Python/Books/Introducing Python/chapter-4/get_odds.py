@@ -16,13 +16,21 @@ Algorithm:
 from typing import Generator
 
 
-generator: Generator[int, None, None] = (
-    number for number in range(10) if number % 2 != 0
-    )
+def get_odds() -> Generator[int, None, None]:
+    """
+    A generator function that returns the odd numbers from range(10).
 
-# print(list(generator))
+    Yields:
+        Generator[int, None, None]
+            The odd numbers from range(10)
+    """
 
-for index, number in enumerate(generator):
+    yield from (
+        number for number in range(10) if number % 2 != 0
+        )
+
+
+for index, number in enumerate(get_odds()):
     if index == 2:
         print(number)
         break
