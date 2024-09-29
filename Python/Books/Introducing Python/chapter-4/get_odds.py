@@ -20,6 +20,8 @@ generator: Generator[int, None, None] = (
     number for number in range(10) if number % 2 != 0
     )
 
+# print(list(generator))
+
 for index, number in enumerate(generator):
     if index == 2:
         print(number)
