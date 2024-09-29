@@ -14,12 +14,20 @@ Make the `'cats'` key refer to a list of strings with the values:
 
 Make all the other keys refer to empty dictionaries.
 
+-----
+
+- Print the top-level keys of life
+
+- Print the keys for life['animals']
+
+- Print the values for life['animals']['cats']
+
 """
 
 from rich import print_json
 
 
-life: dict[str, str | dict] = {
+life: dict[str, dict[str, dict | list]] = {
     "animals": {
         "cats": ["Henri", "Grumpy", "Lucy"],
         "octopi": {},
@@ -30,3 +38,9 @@ life: dict[str, str | dict] = {
 }
 
 print_json(data=life)
+
+print("\n", life.keys())
+
+print("\n", life["animals"].keys())
+
+print("\n", life["animals"]["cats"])
