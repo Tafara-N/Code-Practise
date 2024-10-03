@@ -15,6 +15,9 @@ hours() function
 def hours() -> None:
     """
     Print the string 'Open 9-5 daily'
+
+    Returns:
+        None
     """
 
     print("Open 9-5 daily")
