@@ -6,8 +6,7 @@
 
 - `6.3`. Make yet another class called, of course, `Thing3`. This time, assign the value `'xyz'` to an instance (object) attribute called `letters`. Print `letters`. Do you need to make an object from the class to do this?
 
-- `6.4`. Make a class called Element, with instance attributes name, symbol, and number.
-Create an object of this class with the values 'Hydrogen', 'H', and 1.
+- `6.4`. Make a class called `Element`, with instance attributes `name`, `symbol`, and `number`. Create an object of this class with the values `'Hydrogen'`, `'H'`, and `1`.
 
 - `6.5`. Make a dictionary with these keys and values: 'name': 'Hydrogen', 'symbol':
 'H', 'number': 1. Then, create an object called hydrogen from class Element using
