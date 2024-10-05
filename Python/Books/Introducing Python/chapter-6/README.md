@@ -10,9 +10,7 @@
 
 - `6.5`. Make a dictionary with these keys and values: `'name': 'Hydrogen'`, `'symbol': 'H'`, `'number': 1`. Then, create an object called `hydrogen` from class `Element` using this dictionary.
 
-- `6.6`. For the Element class, define a method called dump() that prints the values of the
-object’s attributes (name, symbol, and number). Create the hydrogen object from this new
-definition and use dump() to print its attributes.
+- `6.6`. For the `Element` class, define a method called `dump()` that prints the values of the object’s attributes (`name`, `symbol`, and `number`). Create the `hydrogen` object from this new definition and use `dump()` to print its attributes.
 
 - `6.7`. Call print(hydrogen). In the definition of Element, change the name of method
 dump to __str__, create a new hydrogen object, and call print(hydrogen) again.
