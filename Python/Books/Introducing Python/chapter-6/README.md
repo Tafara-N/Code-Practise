@@ -8,9 +8,7 @@
 
 - `6.4`. Make a class called `Element`, with instance attributes `name`, `symbol`, and `number`. Create an object of this class with the values `'Hydrogen'`, `'H'`, and `1`.
 
-- `6.5`. Make a dictionary with these keys and values: 'name': 'Hydrogen', 'symbol':
-'H', 'number': 1. Then, create an object called hydrogen from class Element using
-this dictionary.
+- `6.5`. Make a dictionary with these keys and values: `'name': 'Hydrogen'`, `'symbol': 'H'`, `'number': 1`. Then, create an object called `hydrogen` from class `Element` using this dictionary.
 
 - `6.6`. For the Element class, define a method called dump() that prints the values of the
 object’s attributes (name, symbol, and number). Create the hydrogen object from this new
