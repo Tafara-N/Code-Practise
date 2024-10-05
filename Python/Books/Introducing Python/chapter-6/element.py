@@ -13,10 +13,11 @@ class Element:
     A class representing an element
     """
 
-    def __init__(self, name, symbol, number):
+    def __init__(self, name: str, symbol: str, number: int):
         self.name = name
         self.symbol = symbol
         self.number = number
+
 
 hydrogen = Element('Hydrogen', 'H', 1)
 
