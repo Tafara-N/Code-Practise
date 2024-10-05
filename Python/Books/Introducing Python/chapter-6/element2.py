@@ -19,6 +19,7 @@ class Element:
         self.symbol = symbol
         self.number = number
 
+
 element = {
     'name': 'Hydrogen',
     'symbol': 'H',
