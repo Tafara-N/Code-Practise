@@ -16,8 +16,7 @@
 
 - `6.8`. Modify `Element` to make the attributes `name`, `symbol`, and `number` private. Define a getter property for each to return its value.
 
-- `6.9`. Define three classes: `Bear`, `Rabbit`, and `Octothorpe`. For each, define only one method: `eats()`. This should return `'berries' (Bear)`, `'clover' (Rabbit)`, or
-`'campers' (Octothorpe)`. Create one object from each and print what it eats.
+- `6.9`. Define three classes: `Bear`, `Rabbit`, and `Octothorpe`. For each, define only one method: `eats()`. This should return `'berries' (Bear)`, `'clover' (Rabbit)`, or `'campers' (Octothorpe)`. Create one object from each and print what it eats.
 
 - `6.10`. Define these classes: `Laser`, `Claw`, and `SmartPhone`. Each has only one method: `does()`. This returns `'disintegrate' (Laser)`, `'crush' (Claw)`, or `'ring' (SmartPhone)`. Then, define the class `Robot` that has one instance (object) of each of these. Define a `does()` method for the `Robot` that prints what its component objects do.
 
