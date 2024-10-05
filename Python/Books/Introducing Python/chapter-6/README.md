@@ -14,8 +14,7 @@
 
 - `6.7`. Call `print(hydrogen)`. In the definition of `Element`, change the name of method `dump` to `__str__`, create a new `hydrogen` object, and call `print(hydrogen)` again.
 
-- `6.8`. Modify Element to make the attributes name, symbol, and number private. Define a
-getter property for each to return its value.
+- `6.8`. Modify `Element` to make the attributes `name`, `symbol`, and `number` private. Define a getter property for each to return its value.
 
 - `6.9`. Define three classes: Bear, Rabbit, and Octothorpe. For each, define only one
 method: eats(). This should return 'berries' (Bear), 'clover' (Rabbit), or
