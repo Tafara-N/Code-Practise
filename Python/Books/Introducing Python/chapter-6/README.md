@@ -1,7 +1,6 @@
 # Things to Do
 
-- `6.1`. Make a class called Thing with no contents and print it. Then, create an object called
-example from this class and also print it. Are the printed values the same or different?
+- `6.1`. Make a class called `Thing` with no contents and print it. Then, create an object called `example` from this class and also print it. Are the printed values the same or different?
 
 - `6.2`. Make a new class called Thing2 and assign the value 'abc' to a class attribute called
 letters. Print letters.
