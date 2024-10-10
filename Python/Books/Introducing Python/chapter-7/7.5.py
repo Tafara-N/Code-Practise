@@ -22,3 +22,5 @@ letter = """    Dear {salutation} {name},
     {spokesman}
     {job_title}
 """
+
+print(letter, end='')
