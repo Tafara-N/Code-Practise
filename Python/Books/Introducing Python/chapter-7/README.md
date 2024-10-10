@@ -33,7 +33,7 @@
 
 - `7.6`. Make a dictionary called `response` with values for the string keys `'salutation'`, `'name'`, `'product'`, `'verbed'` (past tense verb), `'room'`, `'animals'`, `'amount'`, `'percent'`, `'spokesman'`, and `'job_title'`. Print `letter` with the values from `response`.
 
-- `7.7`. When you’re working with text, regular expressions come in very handy. We’ll apply them in a number of ways to our featured text sample. It’s a poem titled “Ode on the Mammoth Cheese,” written by James McIntyre in 1866 in homage to a seven-thousand-pound cheese that was crafted in Ontario and sent on an international tour. If you’d rather not type all of it, use your favorite search engine and cut and paste the words into your Python program. Or, just grab it from [Project Gutenberg](). Call the text string `mammoth`.
+- `7.7`. When you’re working with text, regular expressions come in very handy. We’ll apply them in a number of ways to our featured text sample. It’s a poem titled “Ode on the Mammoth Cheese,” written by James McIntyre in 1866 in homage to a seven-thousand-pound cheese that was crafted in Ontario and sent on an international tour. If you’d rather not type all of it, use your favorite search engine and cut and paste the words into your Python program. Or, just grab it from [Project Gutenberg](https://www.gutenberg.org/ebooks/36068?msg=welcome_stranger). Call the text string `mammoth`.
 
 ```
     We have seen thee, queen of cheese,
