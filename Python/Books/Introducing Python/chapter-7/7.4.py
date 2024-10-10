@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 """
-Write the poem by using old-style formatting.
+Write the poem by using old-style formatting
 
 Substitute the strings: 'roast beef', 'ham', 'head', and 'clam'
   into this string:
