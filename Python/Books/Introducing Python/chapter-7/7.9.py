@@ -10,6 +10,7 @@ Find all four-letter words that begin with 'c'.
 
 import re
 
+
 pattern = re.compile(r"\bc\w{3}\b")
 
 with open("mammoth.txt", "r") as file:
