@@ -12,6 +12,7 @@ Use re.findall() to print all the words that begin with c.
 
 import re
 
+
 pattern = re.compile(r"\bc\w*")
 
 with open("mammoth.txt", "r") as file:
