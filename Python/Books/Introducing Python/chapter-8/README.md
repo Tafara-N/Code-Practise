@@ -2,7 +2,7 @@
 
 - `8.1`. Assign the string `'This is a test of the emergency text system'` to the variable `test1`, and write `test1` to a file called `test.txt`.
 
-- `8.2`. Open the file test.txt and read its contents into the string test2. Are test1 and test2 the same?
+- `8.2`. Open the file `test.txt` and read its contents into the string `test2`. Are `test1` and `test2` the same?
 
 - `8.3`. Save these text lines to a file called books.csv. Notice that if the fields are separated by commas, you need to surround a field with quotes if it contains a comma.
 author,book
