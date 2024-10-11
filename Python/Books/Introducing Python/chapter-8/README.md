@@ -12,9 +12,8 @@
     Lynne Truss,"Eats, Shoots & Leaves"
 ```
 
-8.4. Use the csv module and its DictReader method to read books.csv to the variable
-books. Print the values in books. Did DictReader handle the quotes and commas in the
-second book’s title?
+8.4. Use the `csv` module and its `DictReader` method to read `books.csv` to the variable `books`. Print the values in `books`. `Did DictReader` handle the quotes and commas in the second book’s title?
+
 8.5. Create a CSV file called books.csv by using these lines:
 title,author,year
 The Weirdstone of Brisingamen,Alan Garner,1960
