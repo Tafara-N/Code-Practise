@@ -35,9 +35,7 @@
 
 - `8.10`. Use the `sqlalchemy` module to connect to the sqlite3 database `books.db` that you just made in exercise 8.6. As in 8.8, select and print the `title` column from the `book` table in alphabetical order.
 
-8.11. Install the Redis server and the Python redis library (pip install redis) on
-your computer. Create a Redis hash called test with the fields count (1) and name
-('Fester Bestertester'). Print all the fields for test.
+- `8.11`. Install the Redis server and the Python `redis` library (`pip install redis`) on your computer. Create a Redis hash called `test` with the fields `count (1)` and `name ('Fester Bestertester')`. Print all the fields for `test`.
 
 - `8.12`. Increment the `count` field of `test` and print it.
 
