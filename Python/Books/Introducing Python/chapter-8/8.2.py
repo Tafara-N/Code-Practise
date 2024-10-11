@@ -12,7 +12,4 @@ test1 = "This is a test of the emergency text system"
 with open("test.txt", "r", newline="") as file:
     test2 = file.read()
 
-if test1 == test2:
-    print("The strings are the same")
-else:
-    print("The strings are different")
+print("The strings are the same" if test1 == test2 else "The strings are different")
