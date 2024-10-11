@@ -14,13 +14,17 @@
 
 - `8.4`. Use the `csv` module and its `DictReader` method to read `books.csv` to the variable `books`. Print the values in `books`. `Did DictReader` handle the quotes and commas in the second book’s title?
 
-8.5. Create a CSV file called books.csv by using these lines:
-title,author,year
-The Weirdstone of Brisingamen,Alan Garner,1960
-Perdido Street Station,China Miéville,2000
-Thud!,Terry Pratchett,2005
-The Spellman Files,Lisa Lutz,2007
-Small Gods,Terry Pratchett,1992
+- `8.5`. Create a CSV file called `books.csv` by using these lines:
+
+```csv
+    title,author,year
+    The Weirdstone of Brisingamen,Alan Garner,1960
+    Perdido Street Station,China Miéville,2000
+    Thud!,Terry Pratchett,2005
+    The Spellman Files,Lisa Lutz,2007
+    Small Gods,Terry Pratchett,1992
+```
+
 8.6. Use the sqlite3 module to create a SQLite database called books.db, and a table
 called books with these fields: title (text), author (text), and year (integer).
 8.7. Read books.csv and insert its data into the book table.
