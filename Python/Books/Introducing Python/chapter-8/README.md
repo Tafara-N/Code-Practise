@@ -38,7 +38,8 @@ table in alphabetical order.
 8.11. Install the Redis server and the Python redis library (pip install redis) on
 your computer. Create a Redis hash called test with the fields count (1) and name
 ('Fester Bestertester'). Print all the fields for test.
-8.12. Increment the count field of test and print it.
+
+- `8.12`. Increment the `count` field of `test` and print it.
 
 ## Author
 
