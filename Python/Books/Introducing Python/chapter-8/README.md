@@ -4,10 +4,14 @@
 
 - `8.2`. Open the file `test.txt` and read its contents into the string `test2`. Are `test1` and `test2` the same?
 
-- `8.3`. Save these text lines to a file called books.csv. Notice that if the fields are separated by commas, you need to surround a field with quotes if it contains a comma.
-author,book
-J R R Tolkien,The Hobbit
-Lynne Truss,"Eats, Shoots & Leaves"
+- `8.3`. Save these text lines to a file called `books.csv`. Notice that if the fields are separated by commas, you need to surround a field with quotes if it contains a comma.
+
+```csv
+    author,book
+    J R R Tolkien,The Hobbit
+    Lynne Truss,"Eats, Shoots & Leaves"
+```
+
 8.4. Use the csv module and its DictReader method to read books.csv to the variable
 books. Print the values in books. Did DictReader handle the quotes and commas in the
 second book’s title?
