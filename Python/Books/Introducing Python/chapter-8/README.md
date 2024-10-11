@@ -29,7 +29,7 @@
 
 - `8.7`. Read `books.csv` and insert its data into the `book` table.
 
-- `8.8`. Select and print the title column from the book table in alphabetical order.
+- `8.8`. Select and print the `title` column from the `book` table in alphabetical order.
 
 8.9. Select and print all columns from the book table in order of publication.
 8.10. Use the sqlalchemy module to connect to the sqlite3 database books.db that you
