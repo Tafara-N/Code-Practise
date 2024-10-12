@@ -6,7 +6,7 @@
 
 - `9.3`. Add a `home()` function to handle requests for the home page. Set it up to return the string `It's alive!`.
 
-9.4. Create a `Jinja2` template file called `home.html` with the following contents:
+- `9.4`. Create a `Jinja2` template file called `home.html` with the following contents:
 
 ```html
 <html>
