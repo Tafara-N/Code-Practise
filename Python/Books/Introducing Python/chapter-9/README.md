@@ -4,7 +4,7 @@
 
 - `9.2`. Build a skeleton website, using Flask’s debug/reload development web server. Ensure that the server starts up for hostname `localhost` on default port `5000`. If your computer is already using port `5000` for something else, use another port number.
 
-- `9.3`. Add a home() function to handle requests for the home page. Set it up to return the string It's alive!.
+- `9.3`. Add a `home()` function to handle requests for the home page. Set it up to return the string `It's alive!`.
 
 9.4. Create a Jinja2 template file called home.html with the following contents:
 
