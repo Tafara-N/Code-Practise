@@ -11,6 +11,8 @@ is already using port 5000 for something else, use another port number.
 string It's alive!.
 
 9.4. Create a Jinja2 template file called home.html with the following contents:
+
+```html
 <html>
 <head>
 <title>It's alive!</title>
@@ -18,6 +20,7 @@ string It's alive!.
 I'm of course referring to {{thing}}, which is {{height}} feet tall and {{color}}.
 </body>
 </html>
+```
 
 9.5. Modify your server’s home() function to use the home.html template. Provide it with three GET parameters: thing, height, and color.
 
