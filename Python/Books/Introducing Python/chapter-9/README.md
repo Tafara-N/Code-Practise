@@ -1,6 +1,6 @@
 # Things to Do
 
-9.1. If you haven’t installed flask yet, do so now. This will also install werkzeug, jinja2, and possibly other packages.
+9.1. If you haven’t installed `flask` yet, do so now. This will also install `werkzeug`, `jinja2`, and possibly other packages.
 
 9.2. Build a skeleton website, using Flask’s debug/reload development web server. Ensure that the server starts up for hostname localhost on default port 5000. If your computer is already using port 5000 for something else, use another port number.
 
