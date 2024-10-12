@@ -21,3 +21,7 @@ I'm of course referring to {{thing}}, which is {{height}} feet tall and {{color}
 
 9.5. Modify your server’s home() function to use the home.html template. Provide it with
 three GET parameters: thing, height, and color.
+
+## Author
+
+**Tafara Nyamhunga  - [Github](https://github.com/tafara-n) / [Twitter](https://twitter.com/tafaranyamhunga)**
