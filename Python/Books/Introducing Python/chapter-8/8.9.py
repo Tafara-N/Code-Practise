@@ -17,7 +17,7 @@ cursor.execute(query)
 records = cursor.fetchall()
 
 for record in records:
-    print(record[0])
+    print(f"{record[0]}, {record[2]}")
 
 cursor.close()
 database.close()
