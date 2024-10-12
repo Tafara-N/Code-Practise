@@ -12,8 +12,9 @@ database = sqlite3.connect("books.db")
 cursor = database.cursor()
 
 query = "SELECT title FROM books ORDER BY title ASC"
+cursor.execute(query)
 
-records = cursor.execute(query)
+records = cursor.fetchall()
 
 for record in records:
     print(record[0])
