@@ -20,5 +20,4 @@ query = """CREATE TABLE books (
 
 cursor = database.cursor()
 cursor.execute(query)
-database.commit()
 database.close()
