@@ -13,7 +13,7 @@ def main() -> None:
     Main function to write the current date to the file today.txt.
     """
 
-    with open("today.txt", "wt") as file:
+    with open("today.txt", "w") as file:
         date = datetime.datetime.now().strftime("%Y-%m-%d")
         file.write(date)
 
