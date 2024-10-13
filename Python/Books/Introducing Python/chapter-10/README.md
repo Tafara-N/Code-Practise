@@ -17,3 +17,7 @@
 - `10.8` What day of the week was your day of birth?
 
 - `10.9` When will you be (or when were you) 10,000 days old?
+
+## Author
+
+**Tafara Nyamhunga  - [Github](https://github.com/tafara-n) / [Twitter](https://twitter.com/tafaranyamhunga)**
