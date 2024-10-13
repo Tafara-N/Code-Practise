@@ -14,5 +14,6 @@
 
 - `10.7` Create a date object of your day of birth.
 
-10.8 What day of the week was your day of birth?
+- `10.8` What day of the week was your day of birth?
+
 10.9 When will you be (or when were you) 10,000 days old?
