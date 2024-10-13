@@ -5,7 +5,7 @@ Write the current date as a string to the text file today.txt
 
 """
 
-import datetime
+from datetime import datetime
 
 
 def main() -> None:
@@ -14,7 +14,7 @@ def main() -> None:
     """
 
     with open("today.txt", "w") as file:
-        date = datetime.datetime.now().strftime("%Y-%m-%d")
+        date = datetime.now().strftime("%Y-%m-%d")
         file.write(date)
 
 
