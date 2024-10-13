@@ -4,7 +4,7 @@
 
 - `10.2` Read the text file `today.txt` into the string `today_string`.
 
-- `10.3` Parse the date from today_string.
+- `10.3` Parse the date from `today_string`.
 
 - `10.4` List the files in your current directory.
 
