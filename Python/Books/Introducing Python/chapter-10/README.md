@@ -1,6 +1,6 @@
 # Things to Do
 
-- `10.1` Write the current date as a string to the text file today.txt.
+- `10.1` Write the current date as a string to the text file `today.txt`.
 
 - `10.2` Read the text file today.txt into the string today_string.
 
